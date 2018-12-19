@@ -1,24 +1,14 @@
+# Ruby Classes
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This is my ruby classes. Since my first at Fatec Santos with Professor Alexandre Garcia. This subject is a part of the second semester of Internet Systems course, about Server Development I.
 
+## Technologies Used
 
-Welcome to your Rails project on Cloud9 IDE!
+- Ruby
+- Postgre SQL
+- HTML 5
 
-To get started, just do the following:
+## Authors
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+* **Tais Silva**
+https://github.com/tcrsilva
