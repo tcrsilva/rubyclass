@@ -8,7 +8,7 @@ This is my ruby classes. Since my first at Fatec Santos with Professor Alexandre
 - Postgre SQL
 - HTML 5
 
-## Authors
+## Author
 
 * **Tais Silva**
 https://github.com/tcrsilva
